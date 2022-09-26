@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Registration Screen</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="login_screen">LOGIN SCREEN</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="register">Register</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="proceeding_to_login_screen">Proceeding to login Screen</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="loading">Loading…!</string>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string name="facebook_app_id">1114834222727070</string>
+    <string name="fb_login_protocol_scheme">wFuTUhBWG5FgfDZ+wl414MwPsvY=</string>
+    <string name="facebook_client_token">5de6d63c04ffbef269aca99fdd4e5072</string>
+    <string name="or_login_using">OR LogIn Using:</string>
+    <string name="author">author</string>
+
+
+</resources>

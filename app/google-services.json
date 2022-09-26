@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494785983037",
+    "project_id": "registration-screen-5b5e6",
+    "storage_bucket": "registration-screen-5b5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494785983037:android:53b1b0bc9746fa99bcb054",
+        "android_client_info": {
+          "package_name": "com.example.registrationscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494785983037-1jr1rggnh5kqv6mbdm1eqnki2ltds7v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCk_KZiKtVlWqxeLeRGhwnymS6iRkDVZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494785983037-1jr1rggnh5kqv6mbdm1eqnki2ltds7v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
